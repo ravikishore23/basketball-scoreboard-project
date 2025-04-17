@@ -17,7 +17,8 @@ A simple and interactive website for keeping track of basketball scores. This to
 
 ## 📸 Demo
 
-![Basketball Score Board Screenshot](assets/screenshot.png)
+![Basketball Score Board Screenshot](assets/screenshot(45).png)
+
 
 
 ## 🔧 How to Use
