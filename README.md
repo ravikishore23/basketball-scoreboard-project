@@ -17,8 +17,7 @@ A simple and interactive website for keeping track of basketball scores. This to
 
 ## 📸 Demo
 
-https://github.com/ravikishore23/basketball-scoreboard-project/blob/main/assets/Screenshot%20(45).png
-
+https://github.com/ravikishore23/basketball-scoreboard-project/tree/main/assets
 
 
 ## 🔧 How to Use
