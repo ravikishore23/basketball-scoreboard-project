@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>basketballscoreboard</title>
+    <link rel="stylesheet" href="index.css" />
+    <link
+      href="https://fonts.cdnfonts.com/css/cursed-timer-ulil"
+      rel="stylesheet"
+    />
+    <link href="https://fonts.cdnfonts.com/css/dasher" rel="stylesheet">
+
+    <link href="https://fonts.cdnfonts.com/css/blank-idea" rel="stylesheet">
+                
+                
+  </head>
+  <body>
+    <div class="title-head">
+      <P>BASKETBALL SCORE-BOARD</P>
+    </div>
+
+   
+    
+    <div class="container">
+      
+      <div class="home">
+        <p class="heading">	Team-A </p>
+        <div class="count-container">
+          <div class="num-holder">
+            <p class="count-number" id="num-board-a">0</p>
+          </div>
+        </div>
+
+        <div class="btn-container">
+          <button class="count-btn" onclick="add1btnA()">+1</button>
+          <button class="count-btn"  onclick="add2btnA()">+2</button>
+          <button class="count-btn"  onclick="add3btnA()">+3</button>
+        </div>
+
+        <div class="rst-container">
+          <button class="rst-btn" onclick="AresetAll()">&#8634; Reset</button>
+        </div>
+      </div>
+
+      <div class="guest">
+        <p class="heading">Team-B</p>
+
+        <div class="count-container">
+          <div class="num-holder">
+            <p class="count-number" id="num-board-b">0</p>
+          </div>
+        </div>
+
+        <div class="btn-container">
+          <button class="count-btn" onclick="add1btnB()" >+1</button>
+          <button class="count-btn" onclick="add2btnB()" >+2</button>
+          <button class="count-btn" onclick="add3btnB()" >+3</button>
+        </div>
+        <div class="rst-container">
+          <button class="rst-btn" onclick="BresetAll()">&#8634; Reset</button>
+        </div>
+      </div>
+         
+      </div>
+    </div>
+    <script src="index.js"></script>
+  </body>
+</html>
