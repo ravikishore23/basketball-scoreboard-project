@@ -16,8 +16,12 @@ A simple and interactive website for keeping track of basketball scores. This to
 - JavaScript
 
 ## 📸 Demo
-
-https://github.com/ravikishore23/basketball-scoreboard-project/tree/main/assets
+## BEFORE SCORE ADDED
+https://github.com/ravikishore23/basketball-scoreboard-project/blob/main/assets/Screenshot%20(45).png
+## AFTER SCORE ADDED
+https://github.com/ravikishore23/basketball-scoreboard-project/blob/main/assets/Screenshot%20(46).png
+## AFTER RESET SCORE
+https://github.com/ravikishore23/basketball-scoreboard-project/blob/main/assets/Screenshot%20(47).png
 
 
 ## 🔧 How to Use
